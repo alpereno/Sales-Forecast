@@ -1,0 +1,352 @@
+Platform,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Wii,Sports,Nintendo,41.49,29.02,3.77,8.46,82.74
+NES,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24
+Wii,Racing,Nintendo,15.85,12.88,3.79,3.31,35.82
+Wii,Sports,Nintendo,15.75,11.01,3.28,2.96,33
+GB,Role-Playing,Nintendo,11.27,8.89,10.22,1,31.37
+GB,Puzzle,Nintendo,23.2,2.26,4.22,0.58,30.26
+DS,Platform,Nintendo,11.38,9.23,6.5,2.9,30.01
+Wii,Misc,Nintendo,14.03,9.2,2.93,2.85,29.02
+Wii,Platform,Nintendo,14.59,7.06,4.7,2.26,28.62
+NES,Shooter,Nintendo,26.93,0.63,0.28,0.47,28.31
+DS,Simulation,Nintendo,9.07,11,1.93,2.75,24.76
+DS,Racing,Nintendo,9.81,7.57,4.13,1.92,23.42
+GB,Role-Playing,Nintendo,9,6.18,7.2,0.71,23.1
+Wii,Sports,Nintendo,8.94,8.03,3.6,2.15,22.72
+Wii,Sports,Nintendo,9.09,8.59,2.53,1.79,22
+X360,Misc,Microsoft Game Studios,14.97,4.94,0.24,1.67,21.82
+PS3,Action,Take-Two Interactive,7.01,9.27,0.97,4.14,21.4
+PS2,Action,Take-Two Interactive,9.43,0.4,0.41,10.57,20.81
+SNES,Platform,Nintendo,12.78,3.75,3.54,0.55,20.61
+DS,Misc,Nintendo,4.75,9.26,4.16,2.05,20.22
+DS,Role-Playing,Nintendo,6.42,4.52,6.04,1.37,18.36
+GB,Platform,Nintendo,10.83,2.71,4.18,0.42,18.14
+NES,Platform,Nintendo,9.54,3.44,3.84,0.46,17.28
+X360,Action,Take-Two Interactive,9.63,5.31,0.06,1.38,16.38
+PS2,Action,Take-Two Interactive,8.41,5.49,0.47,1.78,16.15
+GBA,Role-Playing,Nintendo,6.06,3.9,5.38,0.5,15.85
+DS,Role-Playing,Nintendo,5.57,3.28,5.65,0.82,15.32
+DS,Puzzle,Nintendo,3.44,5.36,5.32,1.18,15.3
+PS2,Racing,Sony Computer Entertainment,6.85,5.09,1.87,1.16,14.98
+X360,Shooter,Activision,9.03,4.28,0.13,1.32,14.76
+GB,Role-Playing,Nintendo,5.89,5.04,3.12,0.59,14.64
+X360,Shooter,Activision,9.67,3.73,0.11,1.13,14.64
+3DS,Role-Playing,Nintendo,5.17,4.05,4.34,0.79,14.35
+PS4,Shooter,Activision,5.77,5.81,0.35,2.31,14.24
+PS3,Shooter,Activision,4.99,5.88,0.65,2.52,14.03
+X360,Shooter,Activision,8.25,4.3,0.07,1.12,13.73
+X360,Shooter,Activision,8.52,3.63,0.08,1.29,13.51
+PS3,Shooter,Activision,5.54,5.82,0.49,1.62,13.46
+PS2,Action,Take-Two Interactive,6.99,4.51,0.3,1.3,13.1
+Wii,Fighting,Nintendo,6.75,2.61,2.66,1.02,13.04
+PS3,Shooter,Activision,5.98,4.44,0.48,1.83,12.73
+DS,Simulation,Nintendo,2.55,3.52,5.33,0.88,12.27
+3DS,Racing,Nintendo,4.74,3.91,2.67,0.89,12.21
+X360,Shooter,Microsoft Game Studios,7.97,2.83,0.13,1.21,12.14
+PS4,Action,Take-Two Interactive,3.8,5.81,0.36,2.02,11.98
+DS,Action,Nintendo,4.4,2.77,3.96,0.77,11.9
+N64,Platform,Nintendo,6.91,2.85,1.91,0.23,11.89
+PS2,Racing,Sony Computer Entertainment,3.01,0.01,1.1,7.53,11.66
+Wii,Platform,Nintendo,6.16,3.4,1.2,0.76,11.52
+3DS,Role-Playing,Nintendo,4.23,3.37,3.08,0.65,11.33
+GB,Adventure,Nintendo,6.16,2.04,2.69,0.29,11.18
+X360,Action,Take-Two Interactive,6.76,3.1,0.14,1.03,11.02
+PS,Racing,Sony Computer Entertainment,4.02,3.87,2.54,0.52,10.95
+3DS,Platform,Nintendo,4.89,2.99,2.13,0.78,10.79
+PS3,Racing,Sony Computer Entertainment,2.96,4.88,0.81,2.12,10.77
+PS3,Shooter,Activision,4.99,3.69,0.38,1.63,10.69
+PS3,Action,Take-Two Interactive,4.76,3.76,0.44,1.62,10.57
+SNES,Platform,Nintendo,5.99,2.15,2.12,0.29,10.55
+GBA,Role-Playing,Nintendo,4.34,2.65,3.15,0.35,10.49
+DS,Platform,Nintendo,5.08,3.11,1.25,0.98,10.42
+Wii,Misc,Ubisoft,6.05,3.15,0,1.07,10.26
+X360,Shooter,Activision,6.72,2.63,0.04,0.82,10.21
+X360,Shooter,Microsoft Game Studios,7.03,1.98,0.08,0.78,9.88
+N64,Racing,Nintendo,5.55,1.94,2.23,0.15,9.87
+3DS,Platform,Nintendo,3.66,3.07,2.47,0.63,9.82
+X360,Shooter,Microsoft Game Studios,6.63,2.36,0.04,0.73,9.76
+PS,Role-Playing,Sony Computer Entertainment,3.01,2.47,3.28,0.96,9.72
+PS3,Shooter,Activision,4.09,3.73,0.38,1.38,9.59
+Wii,Misc,Ubisoft,5.84,2.89,0.01,0.78,9.52
+PS,Racing,Sony Computer Entertainment,3.88,3.42,1.69,0.5,9.49
+X360,Shooter,Activision,5.91,2.38,0.13,0.9,9.32
+SNES,Platform,Nintendo,4.36,1.71,3,0.23,9.3
+X360,Misc,Microsoft Game Studios,5.58,2.83,0.02,0.77,9.2
+3DS,Simulation,Nintendo,2.01,2.32,4.36,0.41,9.09
+DS,Misc,Nintendo,4.46,1.88,1.98,0.7,9.02
+X360,Role-Playing,Bethesda Softworks,5.03,2.86,0.1,0.85,8.84
+SNES,Racing,Nintendo,3.54,1.24,3.81,0.18,8.76
+PS4,Sports,Electronic Arts,1.11,6.06,0.06,1.26,8.49
+Wii,Misc,Nintendo,1.79,3.53,2.49,0.68,8.49
+XB,Shooter,Microsoft Game Studios,6.82,1.53,0.05,0.08,8.49
+Wii,Misc,Nintendo,3.81,2.3,1.58,0.73,8.42
+DS,Role-Playing,Nintendo,2.91,1.86,3.14,0.43,8.33
+PS3,Action,Electronic Arts,1.06,5.05,0.13,2.01,8.24
+PC,Simulation,Electronic Arts,0.98,6.42,0,0.71,8.11
+N64,Shooter,Nintendo,5.8,2.01,0.13,0.15,8.09
+Wii,Sports,Sega,2.58,3.9,0.66,0.91,8.06
+PS2,Role-Playing,Sony Computer Entertainment,2.91,2.07,2.73,0.33,8.05
+PS,Role-Playing,SquareSoft,2.28,1.72,3.63,0.23,7.86
+DS,Role-Playing,Nintendo,2.82,1.78,2.69,0.55,7.84
+2600,Puzzle,Atari,7.28,0.45,0,0.08,7.81
+PSP,Action,Take-Two Interactive,2.9,2.83,0.24,1.75,7.72
+Wii,Platform,Nintendo,3.66,2.42,0.98,0.64,7.69
+PS4,Shooter,Electronic Arts,2.93,3.29,0.22,1.23,7.67
+PS4,Shooter,Activision,2.8,3.3,0.14,1.37,7.6
+N64,Action,Nintendo,4.1,1.89,1.45,0.16,7.6
+PS,Platform,Sony Computer Entertainment,3.78,2.17,1.31,0.31,7.58
+NES,Platform,Nintendo,5.39,1.18,0.7,0.19,7.46
+3DS,Fighting,Nintendo,3.24,1.35,2.42,0.43,7.45
+X360,Shooter,Activision,4.79,1.9,0,0.69,7.37
+X360,Shooter,Electronic Arts,4.46,2.13,0.06,0.69,7.34
+Wii,Action,Nintendo,3.83,2.19,0.6,0.7,7.31
+XOne,Shooter,Activision,4.52,2.09,0.01,0.67,7.3
+Wii,Misc,Ubisoft,3.51,3.03,0,0.73,7.27
+PS3,Shooter,Electronic Arts,2.85,2.93,0.35,1.1,7.23
+PS2,Racing,Electronic Arts,3.27,2.83,0.08,1.02,7.2
+PS,Fighting,Sony Computer Entertainment,3.27,2.22,1.4,0.29,7.16
+PS,Platform,Sony Computer Entertainment,3.68,1.75,1.42,0.28,7.13
+GC,Fighting,Nintendo,4.41,1.04,1.39,0.22,7.07
+WiiU,Racing,Nintendo,3.13,2.07,1.27,0.49,6.96
+PS4,Role-Playing,Bethesda Softworks,2.47,3.15,0.24,1.1,6.96
+GC,Racing,Nintendo,4.12,1.77,0.87,0.19,6.95
+Wii,Misc,Ubisoft,4.14,2.21,0,0.56,6.91
+PS3,Sports,Electronic Arts,0.78,4.32,0.07,1.73,6.9
+PS2,Racing,Electronic Arts,2.71,3.02,0.08,1.09,6.9
+PS2,Shooter,Electronic Arts,2.93,2.75,0.17,0.99,6.83
+PS3,Action,Sony Computer Entertainment,2.77,2.8,0.19,1.06,6.83
+PS,Platform,Sony Computer Entertainment,3.23,2.35,0.94,0.3,6.82
+Wii,Sports,505 Games,3.5,2.64,0,0.67,6.81
+X360,Shooter,Microsoft Game Studios,4.15,1.92,0.06,0.64,6.76
+PS3,Action,Sony Computer Entertainment,3.27,2.25,0.21,1,6.73
+PS3,Shooter,Activision,3.1,2.3,0.28,1.04,6.72
+PS3,Sports,Electronic Arts,0.84,4.32,0.11,1.42,6.69
+DS,Misc,Nintendo,1.67,2.78,1.6,0.62,6.67
+PS3,Action,Take-Two Interactive,2.79,2.61,0.17,1.03,6.6
+PS4,Sports,Electronic Arts,0.79,4.29,0.05,1.47,6.59
+Wii,Platform,Nintendo,3.25,1.84,1.03,0.47,6.59
+PS3,Role-Playing,Bethesda Softworks,2.55,2.71,0.25,1.05,6.56
+NES,Action,Nintendo,3.74,0.93,1.69,0.14,6.51
+PS3,Action,Ubisoft,2.64,2.56,0.16,1.14,6.5
+XB,Shooter,Microsoft Game Studios,4.98,1.3,0.08,0.07,6.43
+GBA,Role-Playing,Nintendo,2.57,1.58,2.06,0.21,6.41
+PS2,Role-Playing,Sony Computer Entertainment,3.64,1.2,1.49,0.07,6.4
+GB,Role-Playing,Nintendo,2.55,1.56,1.29,0.99,6.39
+X360,Shooter,Microsoft Game Studios,4.34,1.35,0.06,0.61,6.36
+X360,Action,Take-Two Interactive,3.7,1.97,0.09,0.57,6.34
+GC,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31
+SNES,Fighting,Capcom,2.47,0.83,2.87,0.12,6.3
+PC,Role-Playing,Activision,0.07,6.21,0,0,6.28
+PS,Action,GT Interactive,3.11,2.8,0.02,0.33,6.27
+X360,Sports,Microsoft Game Studios,3.92,1.78,0.03,0.51,6.24
+X360,Shooter,Microsoft Game Studios,4.05,1.62,0.07,0.49,6.24
+X360,Shooter,Microsoft Game Studios,3.54,1.9,0.07,0.6,6.11
+PS2,Action,Konami Digital Entertainment,2.45,2.01,0.87,0.72,6.05
+GEN,Platform,Sega,4.47,1.2,0.16,0.19,6.03
+PS3,Action,Konami Digital Entertainment,2.63,1.74,0.83,0.83,6.03
+PS,Action,Konami Digital Entertainment,3.18,1.83,0.78,0.24,6.03
+PS3,Action,Sony Computer Entertainment Europe,2.41,2.28,0.28,1.01,5.99
+PS2,Role-Playing,Square Enix,1.88,0,2.33,1.74,5.95
+PS3,Platform,Sony Computer Entertainment,2.8,2.05,0.17,0.9,5.92
+DS,Role-Playing,Nintendo,0.66,0.69,4.35,0.15,5.84
+Wii,Action,LucasArts,3.66,1.63,0,0.53,5.83
+PS,Action,Virgin Interactive,1.88,1.47,2.02,0.45,5.82
+PS,Fighting,Sony Computer Entertainment,2.26,1.89,1.36,0.23,5.74
+DS,Simulation,505 Games,3.13,1.94,0.07,0.58,5.72
+PS4,Shooter,Activision,2.49,2.05,0.16,0.96,5.65
+NES,Puzzle,Nintendo,2.97,0.69,1.81,0.11,5.58
+PS3,Action,Ubisoft,2.54,1.95,0.21,0.87,5.57
+N64,Fighting,Nintendo,2.95,0.6,1.97,0.04,5.55
+X360,Adventure,Ubisoft,3.28,1.65,0.07,0.55,5.55
+PS3,Action,Warner Bros. Interactive Entertainment,2.7,1.91,0.11,0.8,5.53
+X360,Racing,Microsoft Game Studios,2.99,1.92,0.1,0.51,5.51
+PSP,Role-Playing,Capcom,0.47,0.57,4.13,0.34,5.5
+GBA,Platform,Nintendo,3.14,1.24,0.91,0.2,5.49
+GBA,Racing,Nintendo,2.62,1.64,0.99,0.23,5.47
+GBA,Platform,Nintendo,3.21,1.11,0.95,0.2,5.46
+N64,Strategy,Nintendo,3.18,1.24,0.94,0.09,5.45
+PS3,Shooter,Activision,2.72,1.87,0,0.84,5.43
+PS2,Platform,Universal Interactive,2.07,2.29,0.24,0.82,5.42
+PS3,Misc,Sony Computer Entertainment,1.97,2.51,0,0.94,5.42
+PS3,Role-Playing,Square Enix,1.74,1.24,1.87,0.52,5.36
+GB,Puzzle,Nintendo,2.18,0.96,2,0.2,5.34
+GB,Misc,Nintendo,3.02,1.12,1.01,0.16,5.31
+X360,Action,Ubisoft,3.13,1.71,0.03,0.44,5.3
+PS,Role-Playing,SquareSoft,1.62,0.77,2.78,0.14,5.3
+PS2,Role-Playing,Electronic Arts,1.92,1.08,2.11,0.17,5.29
+N64,Platform,Nintendo,3.33,0.79,1.09,0.06,5.27
+X360,Action,Ubisoft,3.1,1.56,0.08,0.51,5.27
+DS,Puzzle,Nintendo,1.22,2.48,1.03,0.52,5.26
+PS,Action,Eidos Interactive,2.3,2.46,0.2,0.28,5.24
+PS2,Sports,Electronic Arts,4.26,0.26,0.01,0.71,5.23
+PS2,Role-Playing,Square Enix,0.65,0.75,3.61,0.2,5.21
+PC,Role-Playing,Activision,2.43,2.15,0,0.62,5.2
+GBA,Platform,Nintendo,2.93,1.25,0.83,0.2,5.2
+WiiU,Platform,Nintendo,2.32,1.3,1.27,0.31,5.19
+GB,Platform,Nintendo,2.49,0.98,1.57,0.15,5.19
+X360,Action,Electronic Arts,1.08,3.48,0.03,0.58,5.18
+DS,Action,Nintendo,1.9,1.83,0.95,0.49,5.17
+SNES,Platform,Nintendo,2.1,0.74,2.2,0.11,5.15
+3DS,Simulation,Nintendo,0.96,2.02,1.89,0.28,5.15
+DS,Sports,Sega,1.64,2.48,0.44,0.58,5.14
+PS2,Shooter,Electronic Arts,1.98,2.23,0.13,0.8,5.13
+GB,Platform,Nintendo,2.71,0.61,1.7,0.11,5.13
+X360,Role-Playing,Microsoft Game Studios,3.59,1.11,0.05,0.38,5.13
+XOne,Shooter,Activision,3.21,1.53,0.01,0.38,5.13
+PC,Simulation,Microsoft Game Studios,3.22,1.69,0,0.2,5.12
+PS2,Misc,RedOctane,3.81,0.63,0,0.68,5.12
+PS3,Action,Capcom,1.96,1.43,1.08,0.65,5.11
+XOne,Action,Take-Two Interactive,2.66,2.01,0,0.41,5.08
+PS,Sports,Activision,3.05,1.41,0.02,0.2,4.68
+Wii,Simulation,Nintendo,1.87,1.12,1.32,0.37,4.68
+PS2,Action,Electronic Arts,1.94,1.95,0.08,0.7,4.67
+X360,Racing,Microsoft Game Studios,2.08,2.04,0.06,0.47,4.64
+PS,Action,Eidos Interactive,2.29,1.97,0.13,0.24,4.63
+Wii,Misc,Activision,3.06,1.12,0,0.44,4.62
+SNES,Action,Nintendo,2.42,0.91,1.15,0.13,4.61
+GC,Action,Nintendo,2.6,0.99,0.89,0.13,4.6
+Wii,Sports,Sega,1.89,1.99,0.22,0.48,4.58
+3DS,Action,Nintendo,1.78,1.39,1.1,0.3,4.58
+WiiU,Shooter,Nintendo,1.55,1.15,1.44,0.43,4.57
+PS4,Action,Sony Computer Entertainment,1.78,1.87,0.07,0.82,4.55
+X360,Misc,Activision,3.19,0.92,0.01,0.42,4.53
+PS2,Sports,Electronic Arts,4.18,0.26,0.01,0.08,4.53
+2600,Platform,Activision,4.21,0.24,0,0.05,4.5
+PS2,Sports,Electronic Arts,3.63,0.24,0.01,0.61,4.49
+PS2,Action,Activision,2.71,1.51,0.03,0.23,4.48
+PS,Role-Playing,Enix Corporation,0.2,0.14,4.1,0.02,4.47
+PS4,Action,Sony Computer Entertainment,1.96,1.69,0.08,0.74,4.47
+PS3,Shooter,Activision,1.54,1.94,0.19,0.77,4.45
+PS2,Action,Sony Computer Entertainment,2.71,1.29,0.02,0.43,4.45
+WiiU,Misc,Nintendo,2.55,1.11,0.46,0.33,4.44
+Wii,Misc,Ubisoft,2.67,1.35,0.01,0.39,4.42
+PS2,Sports,Activision,2.66,1.29,0.01,0.46,4.41
+PS2,Sports,Konami Digital Entertainment,0.1,2.39,1.05,0.86,4.39
+X360,Role-Playing,Take-Two Interactive,2.82,1.05,0.13,0.4,4.39
+NES,Adventure,Nintendo,2.19,0.5,1.61,0.08,4.38
+PS2,Racing,Electronic Arts,2.03,1.79,0.08,0.47,4.37
+PS3,Shooter,Sony Computer Entertainment,1.73,1.73,0.14,0.75,4.35
+GEN,Platform,Sega,3.03,0.91,0.26,0.13,4.34
+PS2,Role-Playing,Square Enix,2.2,0.58,1.38,0.17,4.33
+X360,Sports,Electronic Arts,0.92,2.93,0.01,0.46,4.31
+X360,Shooter,Activision,2.75,1.18,0,0.37,4.31
+2600,Shooter,Atari,4,0.26,0,0.05,4.31
+X360,Role-Playing,Microsoft Game Studios,2.51,1.27,0.11,0.41,4.31
+XOne,Shooter,Microsoft Game Studios,2.64,1.2,0.03,0.39,4.26
+WiiU,Platform,Nintendo,2.11,1.11,0.72,0.3,4.25
+PS3,Action,Eidos Interactive,2.23,1.34,0.07,0.61,4.25
+PS3,Action,Ubisoft,1.41,2.02,0.1,0.72,4.24
+GBA,Misc,Namco Bandai Games,3,1.11,0.05,0.07,4.24
+PS2,Action,Konami Digital Entertainment,1.46,0,0.83,1.93,4.23
+PSP,Platform,Sony Computer Entertainment,2.45,1.02,0,0.75,4.22
+PC,Strategy,Activision,1.7,2.27,0,0.23,4.21
+3DS,Action,Nintendo,2.03,1.27,0.62,0.3,4.21
+PS2,Sports,Electronic Arts,0.78,2.55,0.04,0.84,4.21
+PS2,Misc,Sony Computer Entertainment,0.88,2.3,0.2,0.83,4.2
+PS4,Shooter,Sony Computer Entertainment,1.3,2.07,0.18,0.65,4.2
+PS3,Racing,Sony Computer Entertainment,1.28,1.83,0.57,0.53,4.2
+X360,Action,Ubisoft,2.25,1.47,0.04,0.43,4.19
+PS3,Fighting,Capcom,2.02,1.06,0.58,0.53,4.19
+X360,Sports,Electronic Arts,0.84,2.79,0.02,0.53,4.19
+NES,Action,Palcom,3.38,0.44,0.31,0.04,4.17
+NES,Racing,Nintendo,2.04,0.48,1.57,0.07,4.16
+PS,Action,Hasbro Interactive,3.79,0.27,0,0.11,4.16
+PS2,Sports,Electronic Arts,3.36,0.21,0.01,0.56,4.14
+PS4,Action,Ubisoft,1.4,1.86,0.11,0.77,4.14
+PC,Shooter,Vivendi Games,4.03,0,0.09,0,4.12
+SNES,Platform,Nintendo,1.65,0.61,1.76,0.09,4.12
+PS2,Sports,Electronic Arts,0.71,2.48,0.03,0.89,4.11
+Wii,Action,Nintendo,2.14,1.2,0.37,0.4,4.1
+SNES,Fighting,Capcom,1.42,0.51,2.1,0.07,4.1
+Wii,Misc,Take-Two Interactive,2.13,1.5,0.05,0.42,4.1
+XOne,Role-Playing,Bethesda Softworks,2.45,1.26,0.01,0.37,4.09
+PC,Role-Playing,Activision,2.57,1.52,0,0,4.09
+X360,Role-Playing,Bethesda Softworks,2.65,1.06,0.04,0.33,4.08
+PS2,Action,Sony Computer Entertainment,2.32,0.04,0.04,1.67,4.07
+X360,Racing,Microsoft Game Studios,2.35,1.28,0.03,0.41,4.06
+PS2,Sports,Konami Digital Entertainment,0.12,2.26,0.9,0.77,4.06
+PS,Misc,Sony Computer Entertainment,2.28,1.55,0.16,0.06,4.05
+PS2,Fighting,Namco Bandai Games,1.68,1.51,0.51,0.35,4.05
+PS4,Shooter,Ubisoft,1.12,2.12,0.1,0.69,4.03
+N64,Shooter,Nintendo,2.78,0.58,0.64,0.04,4.03
+PS4,Misc,Sony Computer Entertainment Europe,1.38,1.87,0.12,0.65,4.02
+NES,Sports,Nintendo,1.22,0.28,2.46,0.04,4.01
+PS3,Role-Playing,Bethesda Softworks,2.15,1.2,0.07,0.59,4.01
+DS,Puzzle,Nintendo,0.92,1.78,0.92,0.37,4
+X360,Shooter,Electronic Arts,2.67,0.89,0.05,0.37,3.99
+PS2,Misc,Namco Bandai Games,2.08,1.35,0,0.54,3.98
+Wii,Sports,Electronic Arts,2.1,1.36,0.06,0.4,3.92
+PS4,Action,Ubisoft,1.18,1.96,0.08,0.7,3.92
+GB,Platform,Nintendo,1.97,0.76,1.07,0.11,3.91
+PS2,Sports,Activision,2.29,1.17,0.01,0.42,3.9
+PS3,Action,Ubisoft,1.33,1.71,0.13,0.73,3.89
+3DS,Role-Playing,Nintendo,0.67,0.49,2.62,0.11,3.89
+PS3,Racing,Sony Computer Entertainment,1.53,1.61,0.06,0.67,3.88
+PC,Role-Playing,Bethesda Softworks,1.15,2.09,0,0.64,3.88
+PS2,Fighting,Namco Bandai Games,0.93,1.94,0.31,0.7,3.87
+NES,Role-Playing,Enix Corporation,0.1,0,3.77,0,3.87
+PS3,Sports,Sony Computer Entertainment,2.12,1.14,0.1,0.51,3.87
+PS4,Sports,Take-Two Interactive,2.48,0.65,0.03,0.69,3.85
+PS2,Sports,Konami Digital Entertainment,0.16,1.89,1.12,0.68,3.85
+DS,Misc,Nintendo,0.87,1.57,1.05,0.35,3.84
+PS,Misc,Sony Computer Entertainment,2.12,1.44,0.22,0.06,3.84
+GB,Action,Nintendo,2.21,0.96,0.54,0.13,3.83
+DS,Role-Playing,Nintendo,2.26,0.48,0.81,0.27,3.83
+Wii,Misc,Nintendo,1.06,1.93,0.41,0.43,3.82
+3DS,Simulation,Nintendo,1.44,1.37,0.73,0.27,3.81
+PS4,Action,Warner Bros. Interactive Entertainment,1.49,1.58,0.1,0.61,3.79
+Wii,Sports,Sega,1.14,1.91,0.27,0.46,3.78
+X360,Action,Activision,2.4,1.03,0,0.36,3.78
+PS,Action,Virgin Interactive,1.82,1.24,0.47,0.25,3.77
+PSP,Platform,Sony Computer Entertainment,1.4,1.4,0.1,0.87,3.77
+Wii,Misc,Ubisoft,1.98,1.47,0,0.32,3.76
+PC,Simulation,Electronic Arts,2.03,1.56,0,0.17,3.76
+Wii,Platform,Nintendo,1.98,0.88,0.59,0.32,3.76
+PS,Action,Electronic Arts,1.37,2,0.14,0.22,3.73
+PS4,Role-Playing,Namco Bandai Games,0.96,2,0.21,0.56,3.73
+PS,Action,Eidos Interactive,1.3,0.77,1.54,0.11,3.72
+PS,Platform,Sony Computer Entertainment,1.93,1.58,0,0.19,3.71
+PS2,Sports,Electronic Arts,0.58,2.48,0.04,0.59,3.7
+GB,Strategy,Nintendo,1.49,0.73,1.38,0.1,3.7
+PS3,Shooter,Electronic Arts,1.3,1.51,0.27,0.61,3.69
+DS,Simulation,Electronic Arts,1.59,1.61,0.08,0.41,3.69
+DS,Misc,Nintendo,0,0,3.67,0,3.67
+PS2,Sports,Activision,2.13,1.18,0.01,0.35,3.67
+PSP,Racing,Take-Two Interactive,1.65,1.22,0,0.79,3.66
+N64,Platform,Nintendo,1.87,1.13,0.55,0.1,3.65
+PS2,Shooter,Sony Computer Entertainment,2.53,0.81,0.06,0.24,3.65
+Wii,Misc,Activision,2.33,0.97,0,0.35,3.65
+PS3,Racing,Sony Computer Entertainment,0.71,1.8,0.4,0.74,3.64
+PS2,Platform,Sony Computer Entertainment,2.08,1.09,0.15,0.33,3.64
+N64,Simulation,Nintendo,2.23,0.68,0.66,0.06,3.63
+PS3,Sports,Electronic Arts,0.6,2.46,0.05,0.52,3.63
+PS2,Sports,Konami Digital Entertainment,0.05,0,0.64,2.93,3.63
+PS4,Shooter,Activision,1.78,1.42,0.05,0.38,3.63
+PS2,Action,Capcom,2.08,0.83,0.46,0.25,3.62
+PS4,Shooter,Ubisoft,1.28,1.61,0.15,0.57,3.61
+PS2,Shooter,LucasArts,1.93,1.22,0.03,0.44,3.61
+PC,Shooter,Virgin Interactive,2.05,1.4,0,0.16,3.61
+PS2,Racing,Electronic Arts,2.02,1.17,0,0.42,3.61
+DS,Simulation,505 Games,1.61,1.5,0.1,0.39,3.61
+GC,Action,Nintendo,2.38,0.67,0.46,0.1,3.6
+PS2,Shooter,LucasArts,2.18,1.02,0.03,0.37,3.59
+PS,Fighting,THQ,2.01,1.35,0.06,0.16,3.58
+PS,Platform,Fox Interactive,1.57,1.79,0,0.2,3.56
+PS2,Action,Take-Two Interactive,1.56,1.4,0.07,0.5,3.54
+PS2,Action,Sony Computer Entertainment,1.23,1.77,0.05,0.49,3.54
+PS,Action,Eidos Interactive,1.66,1.58,0.12,0.18,3.54
+PS2,Shooter,Electronic Arts,1.9,1.13,0.1,0.41,3.53
+PS2,Action,Eidos Interactive,1.98,1.14,0.01,0.41,3.53
+X360,Shooter,Electronic Arts,2.14,1.08,0.02,0.29,3.53
+X360,Sports,Electronic Arts,0.71,2.4,0.02,0.4,3.53
+PS,Action,THQ,1.96,1.33,0,0.23,3.52
+PS,Platform,Sony Computer Entertainment,2.14,1.21,0.01,0.17,3.52
+X360,Shooter,Electronic Arts,2.66,0.5,0.05,0.3,3.52
+DS,Sports,Sega,1.22,1.66,0.27,0.38,3.52
+X360,Action,Capcom,2.11,0.94,0.12,0.34,3.51
+SNES,Platform,Nintendo,1.17,0.5,1.75,0.08,3.51
+X360,Action,Ubisoft,2.84,0.39,0.03,0.24,3.5
+NES,Action,Nintendo,1.64,0.38,1.42,0.06,3.5
+X360,Action,Eidos Interactive,2.2,0.97,0.02,0.31,3.5
+DS,Misc,Nintendo,0.59,1.83,0.73,0.35,3.5
+PS2,Sports,Electronic Arts,0.59,2.36,0.04,0.51,3.49
